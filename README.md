@@ -13,7 +13,7 @@ clawdhub install openclaw-guides
 Or manually:
 ```bash
 cd ~/.openclaw/skills
-git clone [this-repo-url] openclaw-guides
+git clone https://github.com/Carlos-bot-43/openclaw-guides-skill openclaw-guides
 ```
 
 ## What It Does
