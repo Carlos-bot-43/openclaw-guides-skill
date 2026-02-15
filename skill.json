@@ -1,0 +1,52 @@
+{
+  "name": "openclaw-guides",
+  "version": "1.0.0",
+  "description": "Get instant access to comprehensive OpenClaw documentation - setup, security, skills, and configuration guides",
+  "author": "TJ Bush (codingbutvibes.com)",
+  "license": "MIT",
+  "keywords": [
+    "openclaw",
+    "clawdbot",
+    "moltbot",
+    "documentation",
+    "tutorial",
+    "guides",
+    "setup",
+    "security",
+    "skills",
+    "configuration",
+    "examples"
+  ],
+  "category": "documentation",
+  "homepage": "https://tjbclaw.gumroad.com/l/openclaw-complete-guide",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/TJBush43/openclaw-guides-skill"
+  },
+  "main": "guides.sh",
+  "scripts": {
+    "start": "./guides.sh"
+  },
+  "requirements": {
+    "openclaw": ">=1.0.0",
+    "browser": true
+  },
+  "pricing": {
+    "skill": "free",
+    "content": "$29 one-time (lifetime access to guides)"
+  },
+  "features": [
+    "Comprehensive OpenClaw documentation (152KB)",
+    "5 professional guides covering all aspects",
+    "200+ copy-paste code examples",
+    "Security best practices",
+    "Real-world use cases",
+    "Instant access after purchase"
+  ],
+  "targets": [
+    "beginners",
+    "developers",
+    "teams",
+    "security-conscious users"
+  ]
+}
